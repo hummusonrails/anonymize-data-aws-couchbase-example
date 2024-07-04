@@ -1,6 +1,6 @@
 # Anonymize Data with AWS and Couchbase Example
 
-This example demonstrates how to use a Node.js AWS Lambda function to anonymize live data streams sent via messague queue before sending to Couchbase Capella. The Lambda function is triggered by an AWS SQS message, which then invokes the function to anonymize the data by removing the user's last name and IP address before sending it to Couchbase for storage.
+This example demonstrates how to use a Node.js AWS Lambda function to anonymize live data streams sent via message queue before sending to Couchbase Capella. The Lambda function is triggered by an AWS SQS message, which then invokes the function to anonymize the data by removing the user's last name and IP address before sending it to Couchbase for storage.
 
 ## Prerequisites
 
