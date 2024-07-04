@@ -1,0 +1,15 @@
+{
+  "name": "aws_data_stream_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "AWS Lambda function to stream data and transform it before sending it to Couchbase",
+  "dependencies": {
+    "couchbase": "^4.4.0"
+  }
+}

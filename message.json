@@ -1,0 +1,11 @@
+{
+    "purchase_id": "purchase_002",
+    "item": "item_1",
+    "user": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "ip_address": "192.168.1.1"
+    },
+    "timestamp": "2024-07-01T12:34:56Z"
+  }
+  

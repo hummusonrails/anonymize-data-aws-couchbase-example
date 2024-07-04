@@ -1,0 +1,32 @@
+[
+    {
+      "purchase_id": "purchase_001",
+      "item": "item_1",
+      "user": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "ip_address": "192.168.1.1"
+      },
+      "timestamp": "2024-07-01T12:34:56Z"
+    },
+    {
+      "purchase_id": "purchase_002",
+      "item": "item_2",
+      "user": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "ip_address": "192.168.1.2"
+      },
+      "timestamp": "2024-07-01T12:35:56Z"
+    },
+    {
+      "purchase_id": "purchase_003",
+      "item": "item_3",
+      "user": {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "ip_address": "192.168.1.3"
+      },
+      "timestamp": "2024-07-01T12:36:56Z"
+    }
+  ]  
